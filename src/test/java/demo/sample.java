@@ -7,6 +7,9 @@ public class sample {
 	public void sampleTest()
 	{
 		System.out.println("This is sample");
+		System.out.println("This is chaitra");
+		
+		
 	}
 
 }

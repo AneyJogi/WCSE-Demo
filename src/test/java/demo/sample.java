@@ -8,6 +8,8 @@ public class sample {
 	{
 		System.out.println("This is sample");
 		System.out.println("This is chaitra");
+		
+		
 	}
 
 }
